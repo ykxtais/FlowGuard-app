@@ -5,7 +5,8 @@ Este app permite que usuários reportem incidentes, visualizem alertas e acompan
 
 ## Dados
 
-- [Repositório do Backend](https://github.com/Irissuu/devopsgs.git)
+> <a href="https://github.com/Irissuu/devopsgs.git">Repositório do Backend</a> <br/>
+> <a href="https://youtu.be/w3CgRbVPZ64?si=k0XzYuzfKpPqqZ6x">Vídeo do Aplicativo</a>
 
 ## Executar o Projeto
  
